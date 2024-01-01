@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:bluestone1892@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
     </a>
 
 </div><br>
@@ -41,8 +42,8 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-00599C?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse%20IDE-00599C?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255C?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
     </div>
     </div>
     <!-- Frontend -->
