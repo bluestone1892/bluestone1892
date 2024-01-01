@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:bluestone1892@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a herf="blueung">
         <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
     </a>
-
 </div><br>
 
 ## 🔨 Once I've used 🔨
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
-        <img src="https://img.shields.io/badge/discord.py-CC342D?style=flat-square&logo=discord.py&logoColor=white"> 
+        <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=Discord&logoColor=white"> 
 </div><br>
 </div>
 
