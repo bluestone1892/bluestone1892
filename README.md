@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-00599C?style=flat-square&logo=IntelliJ%20IDEA%20B%2B&logoColor=white">
     </div>
     </div>
     <!-- Frontend -->
