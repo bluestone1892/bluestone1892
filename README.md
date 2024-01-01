@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=FFFFFF&color=0:EEFF00,100:a82da8&text=Welcome%20to%20MY%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:bluestone1892@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
