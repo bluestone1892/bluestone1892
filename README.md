@@ -45,8 +45,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"> 
-        
-    </div>
+            </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
