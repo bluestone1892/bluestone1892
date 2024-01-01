@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=500&section=header&text=HELLO%20MY%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&fontColor=&height=0:EEFF00,100:a82da8300&section=header&text=HELLo%20MY%20GitHub&fontSize=90)
+
 
