@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
