@@ -32,7 +32,6 @@ Here are some ideas to get you started:
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
@@ -65,8 +64,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
         <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=Discord&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20skript-62B47A?style=flat-square&logo=Minecraft&logoColor=white">
-        <img src="https://img.shields.io/badge/minecraft%20plugin-007396?style=flat-square&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/minecraft%20plugin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/minecraft%20plugin(JAVA)-007396?style=flat-square&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/minecraft%20plugin(Kotlin)-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </div><br>
 </div>
 
