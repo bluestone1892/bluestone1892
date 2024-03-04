@@ -38,17 +38,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div>
     <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"> 
-    <p><strong>development tools</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255C?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
-    </div>
-    </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
@@ -66,6 +55,17 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/minecraft%20skript-62B47A?style=flat-square&logo=Minecraft&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20plugin(JAVA)-007396?style=flat-square&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20plugin(Kotlin)-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"> 
+    </div>
+    <p><strong>development tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255C?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
+    </div>
 </div><br>
 </div>
 
