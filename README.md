@@ -52,7 +52,6 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
         <img src="https://img.shields.io/badge/discord.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20skript-62B47A?style=flat-square&logo=Minecraft&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20plugin(JAVA)-007396?style=flat-square&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/discord.py-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -64,9 +63,12 @@ Here are some ideas to get you started:
     <p><strong>development tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255C?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
+        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
     </div>
 </div><br>
 </div>
