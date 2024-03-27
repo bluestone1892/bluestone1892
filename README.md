@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=FFFFFF&color=0:EEFF00,100:a82da8&text=Welcome%20to%20MY%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-<p style="font-size:2px"> GitHub stats </p>
 
-###  GitHub stats
+##  GitHub stats
 
-<a href="https://github.com/bluestone1892/bluestone1892"><img src="https://github-readme-stats.vercel.app/api?username=bluestone1892&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Blue's github stats" /></a>
+<a href="https://github.com/bluestone1892/bluestone1892"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=bluestone1892&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Blue's github stats" /></a>
 
-#### Top languages
-<a href="https://github.com/bluestone1892"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestone1892&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+## Top languages
+<a href="https://github.com/bluestone1892"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestone1892&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
 ##  Contact 
 <div style="display:flex; flex-direction:row;">
