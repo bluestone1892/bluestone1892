@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=FFFFFF&color=0:EEFF00,100:a82da8&text=Welcome%20to%20MY%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-<p style="font-size:2em"> GitHub stats </p>
+<p style="font-size:2px"> GitHub stats </p>
 
 ![blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluestone1892&include_all_commits=true&show_icons=true&theme=tokyonight)
 <a href="https://github.com/bluestone1892/bluestone1892">
