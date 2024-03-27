@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=FFFFFF&color=0:EEFF00,100:a82da8&text=Welcome%20to%20MY%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-I made a minecraft plugin
+
 
 ##  GitHub stats
 
