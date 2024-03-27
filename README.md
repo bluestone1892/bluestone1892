@@ -27,9 +27,8 @@ Here are some ideas to get you started:
     <a href="mailto:bluestone1892@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <a>
+    <a href="discordapp.com/users/613686564840669185">
         <img src="https://img.shields.io/badge/ Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-        <p>discord tag : blueung</p>
     </a>
 </div><br>
 
