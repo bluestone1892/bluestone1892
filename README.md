@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&fontColor=FFFFFF&color=0:EEFF00,100:a82da8&text=Welcome%20to%20MY%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 ![blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluestone1892&include_all_commits=true&show_icons=true&theme=cobalt)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 
 ##  Contact 
 <div style="display:flex; flex-direction:row;">
