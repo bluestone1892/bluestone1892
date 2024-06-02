@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 ##  GitHub stats
 
 <a href="https://github.com/bluestone1892/bluestone1892"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=bluestone1892&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Blue's github stats" /></a>
-
-## Top languages
 <a href="https://github.com/bluestone1892"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestone1892&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+<img src="https://ghchart.rshah.org/bluestone1892" />
 
 ##  Contact 
 <div style="display:flex; flex-direction:row;">
@@ -75,7 +74,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
         <img src="https://img.shields.io/badge/JetBrains%20Tool-000000?style=flat-square&logo=jetbrains&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
-<img src="https://ghchart.rshah.org/bluestone1892" />
     </div>
 </div><br>
 </div>
