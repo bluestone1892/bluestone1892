@@ -75,6 +75,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
         <img src="https://img.shields.io/badge/JetBrains%20Tool-000000?style=flat-square&logo=jetbrains&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
+<img src="https://ghchart.rshah.org/bluestone1892" />
     </div>
 </div><br>
 </div>
