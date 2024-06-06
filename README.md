@@ -75,10 +75,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
     </div>
         <p><strong>Solved</strong></p>
+        <div>
           <img src="http://mazandi.herokuapp.com/api?handle=bluestone1892&theme=warm"/>
-    <div>
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluestone1892)(https://solved.ac/bluestone1892)
+        </div>
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluestone1892)](https://solved.ac/bluestone1892)
 </div><br>
 </div>
 
