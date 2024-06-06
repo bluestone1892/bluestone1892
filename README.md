@@ -78,8 +78,7 @@ Here are some ideas to get you started:
         <div>
           <img src="http://mazandi.herokuapp.com/api?handle=bluestone1892&theme=warm"/>
         </div>
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)] (https://solved.ac/whkakrkr)
 </div><br>
 </div>
 
