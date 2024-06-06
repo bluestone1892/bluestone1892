@@ -74,6 +74,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/JetBrains%20Tool-000000?style=flat-square&logo=jetbrains&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
     </div>
+        <p><strong>Solved</strong></p>
+    <div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 </div><br>
 </div>
 
