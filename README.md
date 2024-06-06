@@ -77,6 +77,7 @@ Here are some ideas to get you started:
     <p><strong>Solved</strong></p>
     <div>
       <img src="http://mazandi.herokuapp.com/api?handle=bluestone1892&theme=warm"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluestone1892"/>
     </div>
         
    [![Solved.ac프로필]
