@@ -79,7 +79,7 @@ Here are some ideas to get you started:
           <img src="http://mazandi.herokuapp.com/api?handle=bluestone1892&theme=warm"/>
         </div>
     [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluestone1892)](https://solved.ac/bluestone1892)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr)](https://solved.ac/whkakrkr)
 </div><br>
 </div>
 
