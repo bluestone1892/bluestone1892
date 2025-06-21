@@ -64,8 +64,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/minecraft%20skript-62B47A?style=flat-square&logo=Minecraft&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20plugin(JAVA)-007396?style=flat-square&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/discord.py-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/minecraft%20plugin(Kotlin)-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/minecraft%20plugin(Kotlin)-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     <p><strong>development tools</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/JetBrains%20Tool-000000?style=flat-square&logo=jetbrains&logoColor=white">
