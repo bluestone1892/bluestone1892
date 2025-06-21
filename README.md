@@ -67,16 +67,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/minecraft%20plugin(JAVA)-007396?style=flat-square&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/discord.py-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/minecraft%20plugin(Kotlin)-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"> 
-    </div>
     <p><strong>development tools</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255C?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"> 
+    <div> 
         <img src="https://img.shields.io/badge/JetBrains%20Tool-000000?style=flat-square&logo=jetbrains&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
     </div>
