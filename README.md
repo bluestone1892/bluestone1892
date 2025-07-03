@@ -26,15 +26,15 @@ Here are some ideas to get you started:
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluestone1892"/>
   </div>
   
-##  Contact 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:bluestone1892@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    </a>
-    <a href="https://discordapp.com/users/613686564840669185">
-        <img src= "https://img.shields.io/badge/ Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-    </a>
-</div><br>
+- ##  Contact 
+- <div style="display:flex; flex-direction:row;">
+-    <a href="mailto:bluestone1892@gmail.com">
+-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+-    </a>
+-    <a href="https://discordapp.com/users/613686564840669185">
+-        <img src= "https://img.shields.io/badge/ Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+-    </a>
+-</div><br>
 
 ##  Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
