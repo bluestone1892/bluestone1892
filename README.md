@@ -55,7 +55,6 @@ Here are some ideas to get you started:
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
     <p><strong>development tools</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/JetBrains%20Tool-000000?style=flat-square&logo=jetbrains&logoColor=white">
